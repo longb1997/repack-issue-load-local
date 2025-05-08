@@ -40,7 +40,7 @@ yarn bundle
 After bundling is complete, copy the entire bundle folder to mini-server:
 
 ```bash
-cp -r bundle/ ../mini-server/
+cp -r build/ ../mini-server/
 ```
 
 ### Step 4: Start mini-server
